@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.315579101/GTEST_HOME/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.315579101/GTEST_HOME/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.315579101/GTEST_HOME/value=/Users/wangbo/Codes/googletest
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.315579101/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.315579101/appendContributed=true

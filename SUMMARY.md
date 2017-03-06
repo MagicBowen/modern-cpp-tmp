@@ -17,6 +17,7 @@
         * [1.4 关键字typedef](chapter2/keyword_typedef.md)
         * [1.4 关键字typename](chapter2/keyword_typename.md)
         * [1.5 关键字template](chapter2/keyword_template.md)
+        * [2.1 模板的依赖名称查找]()
         * [2.1 模板的继承与CTRP模式]()
         * [2.1 基于模板的组合与police]()
         * [2.1 模板的SFINAF特性与traits]()

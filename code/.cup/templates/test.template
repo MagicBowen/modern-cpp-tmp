@@ -1,0 +1,9 @@
+#include <gtest/gtest.h>
+#include <${project_name}/${include_path}>
+
+USING_${namespace}
+
+TEST(Test${class_name}, should_implement_true)
+{
+    ASSERT_TRUE(false);
+}

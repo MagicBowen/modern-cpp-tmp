@@ -1,0 +1,7 @@
+#include <${project_name}/${include_path}>
+
+${namespace}_BEGIN
+
+
+
+${namespace}_END

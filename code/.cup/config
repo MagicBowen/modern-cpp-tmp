@@ -1,0 +1,16 @@
+[project]
+name = tlpbook
+
+[build]
+# make = Unix Makefiles
+# macro = MACRO1,MACRO2
+# target = Debug | Release
+
+[test]
+include = $ENV{GTEST_HOME}/include
+link_path = $ENV{GTEST_HOME}/lib
+lib = gtest
+exclude = None
+
+[depends]
+# dependent packages

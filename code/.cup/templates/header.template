@@ -1,0 +1,14 @@
+#ifndef ${include_guard}
+#define ${include_guard}
+
+#include <${project_name}/${project_name}.h>
+
+${namespace}_BEGIN
+
+struct ${class_name}
+{
+};
+
+${namespace}_END
+
+#endif
